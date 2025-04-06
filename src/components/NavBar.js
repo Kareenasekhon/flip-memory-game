@@ -3,7 +3,7 @@ import './NavBar.css';
 
 function NavBar() {
   const games = [
-    { name: '2048', url: 'https://monicatvera.github.io/2048/' },
+    { name: '2048', url: 'https://2048-react-game.vercel.app/' },
     { name: 'Flip Memory', url: 'https://flip-memory-game-nu.vercel.app/' },
     { name: 'Sliding Puzzle', url: 'https://sliding-puzzle-game-red.vercel.app/' },
     { name: 'Whack-a-Mole', url: 'https://whack-the-mole-game.vercel.app/' }
